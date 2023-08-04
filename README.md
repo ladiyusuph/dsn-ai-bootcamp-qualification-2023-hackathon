@@ -1,0 +1,1 @@
+# dsn-ai-bootcamp-qualification-2023-hackathon
